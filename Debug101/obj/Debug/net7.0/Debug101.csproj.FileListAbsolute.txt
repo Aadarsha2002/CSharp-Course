@@ -1,0 +1,15 @@
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.exe
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.deps.json
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.runtimeconfig.json
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\bin\Debug\net7.0\Debug101.pdb
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.csproj.AssemblyReference.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfoInputs.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.AssemblyInfo.cs
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.csproj.CoreCompileInputs.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\refint\Debug101.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.pdb
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\Debug101.genruntimeconfig.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Debug101\obj\Debug\net7.0\ref\Debug101.dll

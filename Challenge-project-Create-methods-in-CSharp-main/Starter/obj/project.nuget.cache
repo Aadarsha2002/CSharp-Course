@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1q5yOlhg4Ox2drAq6avDasLamsNthgTe63mCVFHnDcVctMO+RG/M+5ieXJK0bfwY0sCYxihS4WIvpsdtY/KHTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adurs\\source\\repos\\repos\\C#_Course\\CsharpProjects\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adurs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\adurs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\adurs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\adurs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

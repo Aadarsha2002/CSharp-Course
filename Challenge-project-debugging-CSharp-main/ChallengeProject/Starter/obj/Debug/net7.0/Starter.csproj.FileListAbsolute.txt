@@ -1,0 +1,15 @@
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.exe
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.deps.json
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.dll
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.pdb
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.dll
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.pdb
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+c:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\ref\Starter.dll

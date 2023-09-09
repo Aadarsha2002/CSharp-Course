@@ -1,0 +1,15 @@
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\bin\Debug\net7.0\Guided-project-methods-CSharp-main.exe
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\bin\Debug\net7.0\Guided-project-methods-CSharp-main.deps.json
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\bin\Debug\net7.0\Guided-project-methods-CSharp-main.runtimeconfig.json
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\bin\Debug\net7.0\Guided-project-methods-CSharp-main.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\bin\Debug\net7.0\Guided-project-methods-CSharp-main.pdb
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.csproj.AssemblyReference.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.AssemblyInfoInputs.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.AssemblyInfo.cs
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.csproj.CoreCompileInputs.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\refint\Guided-project-methods-CSharp-main.dll
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.pdb
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\Guided-project-methods-CSharp-main.genruntimeconfig.cache
+C:\Users\adurs\source\repos\repos\C#_Course\CsharpProjects\Guided-project-methods-CSharp-main\obj\Debug\net7.0\ref\Guided-project-methods-CSharp-main.dll
